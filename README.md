@@ -1,4 +1,4 @@
-# Indicazioni per la modifica e pubblicazione del Piano di sviluppo DAF
+# Piano di sviluppo DAF
 
 Per modificare il Piano di sviluppo apportare le modifiche ai sorgenti (e/o aggiungerne di nuovi) in formato *rst* presenti nella cartella [rst](rst). Qualora si intenda aggiungere un *caso d'uso* si può utilizzare il relativo [template](rst/casi-uso/_template-pagina-casi-applicativi.rst).
 
