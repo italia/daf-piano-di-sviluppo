@@ -16,4 +16,4 @@ Questi i passi per apportare modifiche/correzioni ai sorgenti ed eseguire la bui
 
 2. Al fine di testare le modifiche apportate, eseguire lo script `rst2html.sh` (per eseguire lo script è necessario installare [Sphinx](http://www.sphinx-doc.org/en/stable/)). L'output dello script è memorizzato nella cartella [docs](docs). A partire dal file [index.html](docs/index.html) è possibile navigare in locale la versione compilata del sito e verificare la corretta visualizzazione dei contenuti.
 
-3. Una volta verificata l'assenza di errori, effettuare commit nel proprio repository ed e formulare una pull request.
+3. Una volta verificata l'assenza di errori, effettuare commit sul proprio repository e formulare una pull request.
