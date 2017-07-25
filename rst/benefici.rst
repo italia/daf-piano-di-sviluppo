@@ -25,14 +25,14 @@ Il DAF mette a disposizione di ciascuna PA aderente:
     - **Dati delle basi di dati d’interesse nazionale**: basi di dati
       autoritative rispetto alle “entità” che gestiscono (ad es. ANPR è
       autoritativa per l’”entità” residente). Nel DAF è possibile trovare
-      una copia sempre aggiornata dei dati in esse contenute, fatte salvo
+      una copia sempre aggiornata dei dati in esse contenute, fatte salve
       le eccezioni di norme e regolamenti, e in accordo con il Garante per
       la Privacy.
 
     - **Dati delle PA**: le PA sincronizzeranno (cfr. Piano triennale) una
       copia dei dati utili a svolgere il proprio mandato istituzionale
       nonché i dati generati dai propri sistemi informatici (es. log). Tali
-      dati sono accessibili da parte di tutte le PA, fatto salvo per quei
+      dati sono accessibili da parte di tutte le PA, ad eccezione di quei
       dati sui cui vigono norme in materia di protezione dei dati
       personali.
 
