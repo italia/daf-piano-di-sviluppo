@@ -6278,4 +6278,8 @@ button[disabled] {
       overflow: visible !important;
    }
 
+div.rst-pro {
+  display: none !important;
+}
+
 /*# sourceMappingURL=theme.css.map */
