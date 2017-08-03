@@ -15,7 +15,6 @@ Per richieste di chiarimento e domande di approfondimento si rimanda alla `sezio
 dedicata al DAF <https://forum.italia.it/c/piano-triennale/data-analytics-framework>`__ 
 presente su `Forum Italia <https://forum.italia.it>`__.
 
-**LICENZA:** `CC-BY 4.0 (Creative Commons Attribution) <https://creativecommons.org/licenses/by/4.0/>`__.
 
 Indice dei contenuti
 --------------------
