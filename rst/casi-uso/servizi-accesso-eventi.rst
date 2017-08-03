@@ -18,7 +18,7 @@ ad oggi sono spesso erogati da molteplici sorgenti in modo disomogeneo.
 La capacità del DAF di intercettare ed eventualmente memorizzare, tali
 eventi abilita lo sviluppo: di applicazioni real-time per cittadini e
 imprese di servizi di notifica best effort utili a favorire la
-circolarità dell’informazione tra PA
+circolarità dell’informazione tra PA.
 
 
 Casi applicativi
