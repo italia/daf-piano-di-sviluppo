@@ -1,9 +1,6 @@
 --- 
-document:
-  name: Piano di sviluppo
-  description: |
-    Questo documento rappresenta il risultato dell’azione “Definizione e
-    realizzazione del piano di sviluppo della fase di sperimentazione del Data &
-    Analytics Framework”, previsto nel capitolo 9 del Piano Triennale per
-    l’Informatica nella PA (2017-2019). Nel documento sono contenute informazioni
-    relative al piano di sviluppo del DAF nella sua fase di sperimentazione.
+document: 
+  description: "Questo documento rappresenta il risultato dell’azione “Definizione e realizzazione del piano di sviluppo della fase di sperimentazione del Data & Analytics Framework”, previsto nel capitolo 9 del Piano Triennale per l’Informatica nella PA (2017-2019). Nel documento sono contenute informazioni relative al piano di sviluppo del DAF nella sua fase di sperimentazione."
+  name: "Piano di sviluppo"
+  tags: 
+    - daf
